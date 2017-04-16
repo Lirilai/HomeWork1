@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/hw_charging_green"
+        android:maxLevel="10000"
+        android:minLevel="7500"/>
+    <item android:drawable="@drawable/hw_charging_yellow"
+        android:maxLevel="7499"
+        android:minLevel="3500"/>
+    <item android:drawable="@drawable/hw_charging_red"
+        android:minLevel="1"
+        android:maxLevel="3499"/>
+</level-list>

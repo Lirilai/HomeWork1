@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 
 
         // Создаём аниматор
-        mAnimator = ValueAnimator.ofInt(1000, 10000);
+        mAnimator = ValueAnimator.ofInt(0, 10000);
         mAnimator.setRepeatMode(ValueAnimator.REVERSE);
         mAnimator.setRepeatCount(ValueAnimator.INFINITE);
         mAnimator.setDuration(3500);
