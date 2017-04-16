@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Градиент, использующий уровень для корректировки -->
+    <gradient
+        android:useLevel="true"
+        android:endColor="@color/colorPrimary"
+        android:gradientRadius="128dp"
+        android:startColor="@color/colorAccent"
+        android:type="linear"/>
+
+</shape>

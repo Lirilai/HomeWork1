@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clip xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:drawable="@drawable/hw_charging"
+    android:gravity="bottom"
+    android:clipOrientation="vertical"
+    >
+
+</clip>
